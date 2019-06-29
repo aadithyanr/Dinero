@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009307984759",
+    "firebase_url": "https://dinero-app.firebaseio.com",
+    "project_id": "dinero-app",
+    "storage_bucket": "dinero-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009307984759:android:bc5f0bb4e6e182a3",
+        "android_client_info": {
+          "package_name": "com.trinet.dinero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009307984759-37ik7b9jlr2j7lecclnnhcq641354361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHP_srJ7FSj2GSmN2UEer7T7wc3QdQAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009307984759-37ik7b9jlr2j7lecclnnhcq641354361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,7 +16,7 @@ Manage your finances with ease. You can backup/restore data and open it into ano
 
 ## Authors
 
-* **Codeigniters** - *Young but Yell* - [My Profile on Linkedin](https://github.com/TheAadithyan)
+* **Codeigniters** - *Young but Yell* - [My Profile on Hackathon.io](https://www.hackathon.io/theaadithyan)
 
 ## License
 
